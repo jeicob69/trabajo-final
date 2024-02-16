@@ -1,0 +1,5 @@
+<INICIO>
+1. ontener datos de la tienda ('Lima','Arequipa','Trujillo','Piura')
+2. obtener productos mas vendidos para ('mujeres','niños', 'varones')
+3. mostrar reporte de ventas
+<FIN>

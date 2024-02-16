@@ -1,0 +1,5 @@
+<INICIO>
+1. ontener datos de la tienda ('Lima','Arequipa','Trujillo','Piura')
+2. obtener productos por vencer ('marzo','abril', 'mayo')
+3. mostrar reporte de ventas
+<FIN>
